@@ -1,0 +1,17 @@
+[
+  {
+    "id": "hero_1780150344064_cndmmovp8li",
+    "name": "Vigilant Knight",
+    "description": "",
+    "rarity": "common",
+    "gem_cost": 100,
+    "hp": 200,
+    "attack": 25,
+    "defense": 15,
+    "speed": 10,
+    "attack_speed": 1,
+    "range": 1,
+    "crit_chance": 5,
+    "dodge_chance": 5
+  }
+]
